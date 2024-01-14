@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f95abcc-9ed9-4c66-a3b8-19d42cdbaf5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ForestCoverTypePrediction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForestCoverTypePrediction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cover_data.csv" afterDir="false" />
-    </list>
+    <list default="true" id="5f95abcc-9ed9-4c66-a3b8-19d42cdbaf5d" name="Changes" comment="Version 1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +19,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Robert-Spataru"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fa27e505-5093-4183-9f81-13d3535763ee" />
+        <option name="url" value="https://github.com/Robert-Spataru/Robert-Spataru" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="notebook:///Users/robertspataru/Desktop/MLProjects/ForestCoverTypePrediction/ForestCoverTypePrediction/ForestCoverTypePrediction.ipynb" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_INSPECTION" />
@@ -85,7 +90,81 @@
       <workItem from="1705202744626" duration="45000" />
       <workItem from="1705202799297" duration="1198000" />
       <workItem from="1705204004287" duration="1861000" />
+      <workItem from="1705206670890" duration="3557000" />
     </task>
+    <task id="LOCAL-00001" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216192849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216192849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216275635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216275635</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216356086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216356086</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216437361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216437361</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216454740</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216454740</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216461053</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216461053</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216501323</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216501323</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216592097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216592097</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1705216639424</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705216639424</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,10 +175,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0" />
   </component>
 </project>
